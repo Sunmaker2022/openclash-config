@@ -6,6 +6,19 @@ DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
+#Emby公益服
+#喵了个喵 https://gy.meowfly.de:433
+# 小姨子 https://gy.emby.yun:443
+# OKEMBY https://link00.okemby.org:8443/https://link01.okemby.org:8443
+# emos https://video.emos.best https://live.emos.best
+# 猫口二三 https://eb.zzm.li
+
+DOMAIN-SUFFIX,meowfly.de
+DOMAIN-SUFFIX,emby.yun
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,emos.best
+DOMAIN-SUFFIX,zzm.li
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
